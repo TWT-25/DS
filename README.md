@@ -1,1 +1,1 @@
-# DS - Data Science practice projects in Python
+# DS - Data Science practice projects
